@@ -1,0 +1,10 @@
+changes in form:
+1. transinator
+2. scroling futer and header
+4. state and city drop down options
+---------
+questions:
+1. images for questions
+-------
+3rd page changes:
+1. help line contacts
